@@ -1,4 +1,4 @@
-<img src="aquacenter.icns" width="112" alt="AquaCenter app icon">
+<img src="aquacenter.png" width="112" alt="AquaCenter app icon">
 
 # AquaCenter
 
