@@ -1,10 +1,14 @@
-<img src="aquacenter.png" width="112" alt="AquaCenter app icon">
+<p align="center">
+  <img src="aquacenter-icon.png" width="112" alt="AquaCenter app icon">
+</p>
 
-# AquaCenter
+<h1 align="center">AquaCenter</h1>
 
 <p align="center">
   A native Cocoa media center for PowerPC Macs.
 </p>
+
+<img src="aquacenter.png" alt="AquaCenter screenshot">
 
 ## Overview
 
