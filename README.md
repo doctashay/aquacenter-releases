@@ -8,7 +8,7 @@
   A native Cocoa media center for PowerPC Macs.
 </p>
 
-<img src="aquacenter.png" alt="AquaCenter screenshot">
+<img src="aquacenter-screenshot.png" alt="AquaCenter screenshot">
 
 ## Overview
 
